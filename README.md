@@ -1,6 +1,7 @@
-# PresentacionEmpresa
-Repositorio para la presentacion de la empresa
+# Presentacion del periodo Dual
 
-<http://jgm1996.x10host.com/presentaciones/tecnilogica/>
+## Presentación de la empresa
+En este [enlace](http://jgm1996.x10host.com/presentaciones/tecnilogica) se puede ver la presentación de la empresa en chirimoya, el archivo 'Tecnilógica - Parte de Accenture.pdf' es esta presentación pero en PDF.
 
-<http://jgm1996.x10host.com/presentaciones/actividades/>
+## Actividades de la empresa
+En este [enlace](http://jgm1996.x10host.com/presentaciones/actividades) se puede ver la presentación sobre las actividades realizadas en la empresa, el archivo 'Actividades de la empresa.pdf' es esta presentación pero en PDF.
